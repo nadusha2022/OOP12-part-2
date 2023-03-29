@@ -10,3 +10,4 @@ public class Car extends WheeledTransport implements Enginable {
             System.out.println("Проверяем двигатель машины");
         }
     }
+
