@@ -15,3 +15,5 @@ public abstract class WheeledTransport {
     public void setWheelsCount(int wheelsCount) {this.wheelsCount = wheelsCount;}
 
     public abstract void updateTyre();}
+
+
